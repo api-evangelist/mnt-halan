@@ -1,0 +1,91 @@
+aid: mnt-halan
+name: MNT-Halan
+description: >-
+  MNT-Halan is a Cairo, Egypt-headquartered fintech holding company and
+  Egypt's first private fintech unicorn, founded in 2017 by Mounir Nakhla
+  (CEO) and Ahmed Mohsen (CTO). MNT-Halan operates a financial super app
+  ("Halan") and a vertically integrated digital ecosystem covering
+  micro-finance and SME lending, consumer credit, e-payments and money
+  transfers, an e-wallet, prepaid and installment cards, payroll advances,
+  investment and gold-installment products, and e-commerce (electronics,
+  appliances, FMCG, e-grocer). Lending products span nano loans up to
+  EGP 2,000, microloans, consumer loans up to EGP 500,000 over 36
+  installments, SME loans from EGP 200,000 up to EGP 15 million, education
+  and home financing up to EGP 4 million, light-vehicle financing, and
+  buy-now-pay-later. The Halan app and its supporting agent network
+  reportedly serve 5–7 million customers, have disbursed in excess of
+  USD 4 billion in loans across 3 million borrowers, and process
+  100+ million USD in monthly payments and 50+ million USD in monthly
+  e-commerce sales. After raising USD 400 million in 2023 to cross
+  unicorn status and an additional USD 157.5 million in 2024 (including
+  an IFC investment), MNT-Halan expanded beyond Egypt into Turkey
+  (via the August 2024 acquisition of Tam Finans), the UAE (December
+  2024 launch), and Pakistan. MNT-Halan's revenue model is interest
+  and fees on lending, merchant and payment fees, e-commerce gross
+  margin, and card interchange; the company markets directly to
+  consumers and SMEs through its Halan app and physical outlets, and
+  does not publish a public developer API, SDK, partner sandbox, or
+  open-source code repository.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Financial Services
+  - Fintech
+  - Micro-Finance
+  - Consumer Lending
+  - SME Lending
+  - Digital Payments
+  - E-Wallet
+  - Mobile Wallet
+  - Prepaid Cards
+  - Installment Cards
+  - Buy Now Pay Later
+  - Payroll Advance
+  - Savings
+  - Investments
+  - E-Commerce
+  - Super App
+  - Financial Inclusion
+  - Unbanked
+  - Egypt
+  - MENA
+  - Turkey
+  - UAE
+  - Pakistan
+url: https://raw.githubusercontent.com/api-evangelist/mnt-halan/refs/heads/main/apis.yml
+created: '2026-05-24'
+modified: '2026-05-24'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://mnt-halan.com
+  - type: ConsumerApp
+    url: https://halan.com
+  - type: About
+    url: https://halan.com/about/
+  - type: Services
+    url: https://mnt-halan.com/#services
+  - type: Investors
+    url: https://mnt-halan.com/#investors
+  - type: News
+    url: https://mnt-halan.com/#news
+  - type: ConsumerNews
+    url: https://halan.com/news/
+  - type: HalanLife
+    url: https://halan.com/halan-life/
+  - type: Contact
+    url: https://halan.com/contact-us-2/
+  - type: iOSApp
+    url: https://apps.apple.com/eg/app/halan/id1490416042
+  - type: AndroidApp
+    url: https://play.google.com/store/apps/details?id=com.halan.halan
+  - type: Twitter
+    url: https://twitter.com/mnt_halan
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/mnt-halan
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
