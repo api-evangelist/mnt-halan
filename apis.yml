@@ -60,6 +60,8 @@ modified: '2026-05-24'
 specificationVersion: '0.20'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/mnt-halan-domain-security.yml
   - type: Website
     url: https://mnt-halan.com
   - type: ConsumerApp
@@ -86,6 +88,8 @@ common:
     url: https://twitter.com/mnt_halan
   - type: LinkedIn
     url: https://www.linkedin.com/company/mnt-halan
+  - url: https://mnt-halan.com/feed
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
