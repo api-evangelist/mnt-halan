@@ -1,0 +1,8 @@
+---
+title: "MNT-HALAN RAISES CIRCA US $160 MILLION FROM INTERNATIONAL INVESTORS TO FUND IMMINENT GEOGRAPHICAL EXPANSION BEYOND EGYPT"
+url: "https://mnt-halan.com/2024/08/08/mnt-halan-raises-circa-us-160-million-from-international-investors/"
+date: "2024-08-08"
+author: ""
+feed_url: "https://mnt-halan.com/feed"
+---
+MNT-HALAN RAISES CIRCA US $160 MILLION FROM INTERNATIONAL INVESTORS TO FUND IMMINENT GEOGRAPHICAL EXPANSION BEYOND EGYPT
