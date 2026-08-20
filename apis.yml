@@ -42,6 +42,30 @@ position: Provider
 access: 3rd-Party
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/mnt-halan.png
 tags:
+  - Financial-Services
+  - Fintech
+  - Microfinance
+  - Consumer Lending
+  - SME Lending
+  - Digital Payments
+  - E-Wallet
+  - Mobile Wallet
+  - Prepaid Cards
+  - Installment Cards
+  - Buy Now Pay Later
+  - Payroll Advance
+  - Savings
+  - Investments
+  - E-Commerce
+  - Super App
+  - Financial Inclusion
+  - Unbanked
+  - Egypt
+  - MENA
+  - Turkey
+  - UAE
+  - Pakistan
+tags_raw:
   - Financial Services
   - Fintech
   - Micro-Finance
