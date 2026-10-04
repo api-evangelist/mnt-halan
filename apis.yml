@@ -53,13 +53,13 @@ position: Producing
 access: 3rd-Party
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/mnt-halan.png
 tags:
-  - Financial-Services
+  - Financial Services
   - Fintech
   - Microfinance
   - Consumer Lending
   - SME Lending
   - Digital Payments
-  - E-Wallet
+  - Digital Wallet
   - Mobile Wallet
   - Prepaid Cards
   - Installment Cards
@@ -100,6 +100,7 @@ tags_raw:
   - Turkey
   - UAE
   - Pakistan
+  - Financial-Services
 url: https://raw.githubusercontent.com/api-evangelist/mnt-halan/refs/heads/main/apis.yml
 created: '2026-05-24'
 modified: '2026-05-24'
